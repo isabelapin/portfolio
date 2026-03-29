@@ -1,6 +1,6 @@
 body {
   color: rgb(34, 34, 34);
-  background-color: rgb(209, 209, 209);
+  background-color: rgb(210, 196, 186);
   font-family: poppins;
   padding: 40px 20px 0px;
 }
@@ -15,6 +15,10 @@ header img {
 }
 
 p {
+  text-align: justify;
+}
+
+ul {
   text-align: justify;
 }
 
